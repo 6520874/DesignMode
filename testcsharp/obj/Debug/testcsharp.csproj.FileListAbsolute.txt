@@ -1,0 +1,6 @@
+C:\Users\65208\RiderProjects\testcsharp\testcsharp\obj\Debug\testcsharp.csprojAssemblyReference.cache
+C:\Users\65208\RiderProjects\testcsharp\testcsharp\obj\Debug\testcsharp.csproj.CoreCompileInputs.cache
+C:\Users\65208\RiderProjects\testcsharp\testcsharp\bin\Debug\testcsharp.exe
+C:\Users\65208\RiderProjects\testcsharp\testcsharp\bin\Debug\testcsharp.pdb
+C:\Users\65208\RiderProjects\testcsharp\testcsharp\obj\Debug\testcsharp.exe
+C:\Users\65208\RiderProjects\testcsharp\testcsharp\obj\Debug\testcsharp.pdb
